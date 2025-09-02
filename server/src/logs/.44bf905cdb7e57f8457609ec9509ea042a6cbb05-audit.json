@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/yvanos/projects/fx-app-2/server/src/logs/.44bf905cdb7e57f8457609ec9509ea042a6cbb05-audit.json",
+    "files": [
+        {
+            "date": 1753118711483,
+            "name": "/home/yvanos/projects/fx-app-2/server/src/logs/app-2025-07-21.log",
+            "hash": "eed85a0529b06a1c0cc2a54d585a414df5c78ee3a9e55fcebc3a00c3d65c5d5f"
+        },
+        {
+            "date": 1753131615453,
+            "name": "/home/yvanos/projects/fx-app-2/server/src/logs/app-2025-07-22.log",
+            "hash": "9ea010c79014c8209bda67745adf023e10e072e00169412cc227524b07eb7174"
+        }
+    ],
+    "hashType": "sha256"
+}

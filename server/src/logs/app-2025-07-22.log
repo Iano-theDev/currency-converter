@@ -1,0 +1,175 @@
+2025-07-22 00:00:50 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:00:93 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:01:99 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:04:98 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:05:52 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:06:54 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:07:87 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:07:94 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:07:86 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:08:97 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:08:61 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:09:41 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:09:09 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:09:43 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:10:04 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:13:34 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:17:53 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:18:10 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:18:20 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:9:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:20:66 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:20:94 [INFO]: undefined
+2025-07-22 00:20:94 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:20:12 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:21:97 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:21:31 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:21:35 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:22:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:22:93 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:22:94 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:24:10 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:24:16 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:25:95 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:25:47 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:25:48 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:26:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:26:24 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:26:59 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 00:26:62 [ERROR]: POST /users -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 00:27:27 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:27:63 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:27:82 [ERROR]: permission denied for table users
+2025-07-22 00:27:83 [ERROR]: POST /users -  permission denied for table users
+error: permission denied for table users
+    at /home/yvanos/projects/fx-app-2/server/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-22 00:28:51 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:28:09 [ERROR]: password authentication failed for user "postgres"
+2025-07-22 00:28:10 [ERROR]: POST /users -  password authentication failed for user "postgres"
+error: password authentication failed for user "postgres"
+    at /home/yvanos/projects/fx-app-2/server/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-22 00:31:50 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:32:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:33:94 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:37:39 [ERROR]: duplicate key value violates unique constraint "users_username_key"
+2025-07-22 00:37:43 [ERROR]: POST /users -  duplicate key value violates unique constraint "users_username_key"
+error: duplicate key value violates unique constraint "users_username_key"
+    at /home/yvanos/projects/fx-app-2/server/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-22 00:38:42 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:38:07 [ERROR]: duplicate key value violates unique constraint "users_username_key"
+2025-07-22 00:38:08 [ERROR]: POST /users -  duplicate key value violates unique constraint "users_username_key"
+error: duplicate key value violates unique constraint "users_username_key"
+    at /home/yvanos/projects/fx-app-2/server/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-22 00:43:17 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 00:46:71 [ERROR]: duplicate key value violates unique constraint "users_username_key"
+2025-07-22 00:46:80 [ERROR]: POST /users -  duplicate key value violates unique constraint "users_username_key"
+error: duplicate key value violates unique constraint "users_username_key"
+    at /home/yvanos/projects/fx-app-2/server/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-22 01:00:83 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:00:10 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:05:66 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:06:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:06:47 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:07:01 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:07:33 [ERROR]: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-07-22 01:07:48 [ERROR]: GET /users/1 -  Cannot destructure property 'username' of 'req.body' as it is undefined.
+TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:10:17
+    at Generator.next (<anonymous>)
+    at /home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:4:12)
+    at createUser (/home/yvanos/projects/fx-app-2/server/src/controllers/user.controllers.ts:7:85)
+    at Layer.handleRequest (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/layer.js:152:17)
+    at next (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/yvanos/projects/fx-app-2/server/node_modules/router/lib/route.js:117:3)
+    at handle (/home/yvanos/projects/fx-app-2/server/node_modules/router/index.js:435:11)
+2025-07-22 01:08:72 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:08:66 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:15:76 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:16:56 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:53:29 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 01:55:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 02:02:59 [INFO]: Server is running on: http://localhost:5000
+2025-07-22 02:09:33 [INFO]: Server is running on: http://localhost:5000
